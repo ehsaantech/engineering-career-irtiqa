@@ -20,7 +20,7 @@ Every role will have the following three parameters that each peer in the team w
 2. Engagement
 3. Coachability -- Every resource is coachable at any given ladder and is either coaching or being coached at the same time.
 
-### Expectations
+## Expectations
 
 ### Engineer
 
@@ -81,13 +81,7 @@ Every role will have the following three parameters that each peer in the team w
 - Has basic knowledge of baseline tools e.g. Git, IDEs, Terminal etc
 
 #### Engagement
-
-- Participates in delivering simple bugfixes end-to-end.
-- Has a habit of communicating proactively about their work and blockers.
-- Actively seeks help to unblock themselves.
-- Demonstracts good work management with regular guidance. Able to understand priorities of daily work against project needs.
-- Work needs detailed reviews on a regular basis.
+**TBD**
 
 #### Coachability
-
-- Receives constructive feedback with an open and growth mindset. 
+**TBD**
