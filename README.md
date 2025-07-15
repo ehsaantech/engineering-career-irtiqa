@@ -4,7 +4,7 @@
 
 As a general rule of thumb, we will not unnecessarily scale our engineering team. Small teams are more productive, competitive. Everyone in the team knows their role and everyone wants to work with competitive people. In small team it is easier to understand/rectify the issues and resolutions are easier too. We believe that engineering teams don't always need a manager, as everyone in the team is competitive enough to manage themselves.
 
-For year 2024, Team Ehsaan will have the following three roles. We can improve as the engineering team scales. For a small engineering team up-to 10 people, this seems like an ideal hierarchy.
+For year 2025, Team Ehsaan will have the following three roles. We can improve as the engineering team scales. For a small engineering team up-to 10 people, this seems like an ideal hierarchy.
 
 | **Role** | **Description** |
 | ---| --- |
